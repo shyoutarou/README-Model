@@ -29,9 +29,18 @@ Referêncas, Markdown, Icons para deizar se arquivo README,md legal.
 ## 📌 Index
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-issues">Issues</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Logo-ou-Banner">Logo ou Banner</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Título-e-Descrição">Título e Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Badges">Badges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Status-do-Projeto">Status do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tabela-de-Conteúdos">Tabela de Conteúdos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tabela-de-Conteúdos">Demonstração da Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Pré-requisitos-e-como-rodar-a-aplicação/testes">Pré-requisitos e como rodar a aplicação/testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contribuições">Contribuições</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a> 
+  <a href="#-Autor-e-Agradecimentos">Autor e Agradecimentos</a> 
+  <a href="#-license">Licença</a> 
 </p>
 
 ## 📌 Index em Arquivos
@@ -43,7 +52,7 @@ Referêncas, Markdown, Icons para deizar se arquivo README,md legal.
 
 ## ❔ Sobre o projeto
 
-Durante o evento Next Level Week #2, 
+Essa é uma sugestão de estrutura, cada um pode fazer conforme a necessidade do projeto. Vamos agora cobrir cada um dos tópicos da estrutura e outros pontos adicionais.
 
 ## 🧐 Motivo
 
@@ -268,12 +277,10 @@ Siga os passos abaixo para contribuir:
     - [Dillinger](https://dillinger.io/)
     - [Stackedit](https://stackedit.io/) 
 
-- [Iniciando com React Native: Navegação e Autenticação com JWT](https://blog.rocketseat.com.br/react-native-autenticacao/)
-- [Tipos de navegação no React Native](https://blog.rocketseat.com.br/navegacao-react-native/)
-- [How I set up React and Node with JSON Web Token for Authentication](https://medium.com/@romanchvalbo/how-i-set-up-react-and-node-with-json-web-token-for-authentication-259ec1a90352)
-- [React (without Redux) - JWT Authentication Tutorial & Example](https://jasonwatmore.com/post/2019/04/06/react-jwt-authentication-tutorial-example)
-- [Scroll infinito no React Native](https://blog.rocketseat.com.br/scroll-infinito-no-react-native/)
-- [Deploy NLW](https://www.notion.so/Deploy-NLW-56f2a980c20e41d6b1dd22a4d1348e6e)
+* Badges
+- [Shields](https://shields.io/)
+- [How to Make Custom Badges](https://dev.to/milkers/how-to-make-custom-badges-to-improve-your-markdown-documents-460k)
+- [Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
 
 ## 📜 License
 
