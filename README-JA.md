@@ -1,7 +1,7 @@
 # NLW-Next-Level-Week #2
 
 <h1 align="center">
-    <img alt="バナー" title="#バナー" style="object-fit: cover; width:250px; height:250px;" src=".github/banner.png"  />
+    <img alt="バナー" title="#バナー" style="object-fit: cover; width:100px; height:100px;" src=".github/banner.png"  />
 </h1>
 
 <h2 align="center">
@@ -52,6 +52,17 @@
  
  一部のREADMEでは、すべてのテストがプロジェクトに合格したかどうかなど、メタデータを伝える小さな画像が表示される場合があります。 シールドを使用して、READMEにいくつかを追加できます。 多くのサービスには、バッジを追加するための指示もあります。           ……ビジュアル           作成している内容に応じて、スクリーンショットまたはビデオを含めることをお勧めします（実際のビデオではなくGIFが頻繁に表示されます）。  ttygifのようなツールが役立ちますが、より洗練された方法についてはAsciinemaをチェックしてください。           
  
+## 📸 ビジュアルとスクリーンショット
+
+-------------
+ <p align="center">
+  <img src=".github/TextTradutor.gif" alt="GIF" width="100px" />
+</p>
+
+<p align="center">
+  <img src=".github/imagem.png" alt="PNG" width="100px" />
+</p>
+
  ## テクノロジー                              
  
  ## インストール           

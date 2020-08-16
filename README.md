@@ -4,7 +4,7 @@ Referêncas, Markdown, Icons para deizar se arquivo README,md legal.
 
 
 <h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; width:250px; height:250px;" src=".github/banner.png"  />
+    <img alt="Banner" title="#Banner" style="object-fit: cover; width:100px; height:100px;" src=".github/banner.png"  />
 </h1>
 
 <h2 align="center">
@@ -73,18 +73,17 @@ Descrição do Motivo
 
 Em alguns READMEs, você pode ver pequenas imagens que transmitem metadados, como se todos os testes estão passando ou não para o projeto.  Você pode usar Shields para adicionar alguns ao seu README.  Muitos serviços também possuem instruções para adicionar um crachá.           
 
-## 📸 Visuals e Telas 
-
+## 📸 Visuais e Telas 
 Dependendo do que você está fazendo, pode ser uma boa ideia incluir capturas de tela ou até mesmo um vídeo (você verá frequentemente GIFs em vez de vídeos reais).  Ferramentas como ttygif podem ajudar, mas dê uma olhada no Asciinema para um método mais sofisticado.    
 -------------
 ### Imagem GIF
 <p align="center">
-  <img src=".github/TextTradutor.gif" alt="Preferâencia por GIF" width="100%" />
+  <img src=".github/TextTradutor.gif" alt="GIF" width="100px" />
 </p>
 
 ### Imagem PNG
 <p align="center">
-  <img src=".github/imagem.gif" alt="Preferâencia por GIF" width="100%" />
+  <img src=".github/imagem.png" alt="PNG" width="100px" />
 </p>
 
 ## Tecnologias                                
@@ -107,7 +106,6 @@ Dependendo do que você está fazendo, pode ser uma boa ideia incluir capturas d
 [Detalhes](Aula03.md)
 
 ## ⚙ Instalação           
-
 Dentro de um determinado ecossistema, pode haver uma maneira comum de instalar coisas, como usar Yarn, NuGet ou Homebrew.  No entanto, considere a possibilidade de que quem está lendo seu README seja um novato e gostaria de mais orientação.  Listar etapas específicas ajuda a remover ambigüidades e faz com que as pessoas usem seu projeto o mais rápido possível.  Se ele for executado apenas em um contexto específico, como uma determinada versão de linguagem de programação ou sistema operacional ou tiver dependências que devem ser instaladas manualmente, adicione também uma subseção Requisitos.    
 -------------
 ### Comandos para instalar no MAC
@@ -201,17 +199,14 @@ Logo após, insira os seguintes comandos no seu terminal para cada diretório re
 
 ```
 ## Status do projeto           
-
 Se você ficou sem energia ou tempo para o seu projeto, coloque uma nota no topo do README dizendo que o desenvolvimento foi desacelerado ou parou completamente.  Alguém pode escolher fazer um fork do seu projeto ou se voluntariar para entrar como mantenedor ou proprietário, permitindo que o projeto continue.  Você também pode fazer uma solicitação explícita para mantenedores.           
 
 ## 🐛 Issues
-
 Ofereça às pessoas uma forma de contato.  Pode ser qualquer combinação de contatos, uma sala de chat, um endereço de e-mail, etc.   
 -------------
 > Sinta-se à vontade para registrar um novo problema com o respectivo título e descrição no repositório Proffy. > Se você já encontrou uma solução para seu problema, adoraria revisar sua solicitação de pull!
 
 ## 🤝 Contribuições           
-
 Se você tiver ideias para lançamentos no futuro, é uma boa ideia listá-los no README.      Contribuindo           Indique se você está aberto a contribuições e quais são seus requisitos para aceitá-las.           Para as pessoas que desejam fazer alterações em seu projeto, é útil ter alguma documentação sobre como começar.  Talvez haja um script que eles devam executar ou algumas variáveis de ambiente que eles precisem definir.  Torne essas etapas explícitas.  Essas instruções também podem ser úteis para o seu futuro eu.           Você também pode documentar comandos para lintar o código ou executar testes.  Essas etapas ajudam a garantir a alta qualidade do código e a reduzir a probabilidade de que as alterações quebrem algo inadvertidamente.  Ter instruções para a execução de testes é especialmente útil se requer configuração externa, como iniciar um servidor Selenium para testar em um navegador.           
 -------------
 Siga os passos abaixo para contribuir:
@@ -231,8 +226,7 @@ Siga os passos abaixo para contribuir:
 7. Pronto, agora só aguardar a análise 
 
 ## Autores e reconhecimento          
-
- Mostre sua gratidão àqueles que contribuíram para o projeto.          
+Mostre sua gratidão àqueles que contribuíram para o projeto.          
 -------------
  <div align=center>
   <table style="width:100%">
@@ -249,7 +243,7 @@ Siga os passos abaixo para contribuir:
   </table>
 </div> 
  
- ## ***Referências***
+## ***Referências***
 
 * MarkDown
     - [Editor.md](https://pandao.github.io/editor.md/en.html)
@@ -264,8 +258,7 @@ Siga os passos abaixo para contribuir:
     - [Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
     - [Make a README](https://www.makeareadme.com/)
 
- ## 📜 Licença           
- 
+## 📜 Licença           
 Para projetos de código aberto, diga como está licenciado.
 -------------
 O projeto publicado em 2020 sobre a licença [MIT](./LICENSE) ❤️ 

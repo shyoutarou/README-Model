@@ -1,7 +1,7 @@
 # NLW-Next-Level-Week #2
 
 <h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; width:250px; height:250px;" src=".github/banner.png"  />
+    <img alt="Banner" title="#Banner" style="object-fit: cover; width:100px; height:100px;" src=".github/banner.png"  />
 </h1>
 
 <h2 align="center">
@@ -20,19 +20,19 @@
 
 ## 📌 Index
 <p align="center">
-  <a href="#-About-README">About README</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Logo-ou-Banner">Logo ou Banner</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project-s-Name">Project's Name</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Description-and-Motivation ">Description and Motivation </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Badges">Badges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Visuals-and-Screenshots">Visuals and Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Techs">Techs </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project-s-status">Project's status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Contributions">Contributions</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Authors-and-acknowledgment">Authors and acknowledgment</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-References">References</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about-readme">About README</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-logo-ou-banner">Logo ou Banner</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project-s-name">Project's Name</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-badges">Badges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-visuals-and-screenshots">Visuals and Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project-s-status">Project's status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributions">Contributions</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-authors-and-acknowledgment">Authors and acknowledgment</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-references">References</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a> 
 </p>
 
@@ -57,18 +57,17 @@ Motivation Description
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
 ## 📸 Visuals and Screenshots
-
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 -------------
 
 ### GIF Image
 <p align="center">
-  <img src=".github/TextTradutor.gif" alt="GIF" width="100%" />
+  <img src=".github/TextTradutor.gif" alt="GIF" width="100px" />
 </p>
 
 ### PNG Image
 <p align="center">
-  <img src=".github/imagem.gif" alt="GIF" width="100%" />
+  <img src=".github/imagem.png" alt="PNG" width="100px" />
 </p>
 
 
@@ -92,7 +91,6 @@ Depending on what you are making, it can be a good idea to include screenshots o
 [Details](Aula03.md)
 
 ## ⚙ Installation    
-
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
 -------------
 
@@ -105,7 +103,6 @@ Within a particular ecosystem, there may be a common way of installing things, s
 |Expo  |  3.23.1 |  ```yarn add global expo-cli```|
 
 ## Usage
-
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 -------------
 
@@ -191,14 +188,12 @@ Then, enter the cloned repository and the directory corresponding to the one you
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers. 
 
 ## 🐛 Issues           
-
 Offer people a form of contact.  It can be any combination of contacts, a chat room, an email address, etc.           
 -------------
 > Feel free to register a new problem with its title and description in the Proffy repository.  
 > If you have already found a solution to your problem, I would love to review your pull request! 
 
 ## 🤝 Contributions 
-
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 Contributing
 
@@ -227,7 +222,6 @@ Follow the steps below to contribute:
 
 
 ## Authors and acknowledgment
-
 Show your appreciation to those who have contributed to the project.
 -------------
  <div align=center>
@@ -269,7 +263,7 @@ The project published in 2020 on the license [MIT](./LICENSE) ❤️
 Made with ❤️ by Shyoutarou           
 Liked?  Leave a little star to help the project ⭐           
 
-- [Back to Top](#Index)
+- [Back to Top](#index)
 
 
 
