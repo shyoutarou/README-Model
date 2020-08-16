@@ -1,8 +1,11 @@
-# NLW-Next-Level-Week #2
 
 <h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; width:100px; height:100px;" src=".github/banner.png"  />
+    <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
 </h1>
+
+# 📝 README-Model
+
+<p align="center"> A Brief Description: References, Markdown, Icons to make README.md file much, much cooler. </p>
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blue?style=for-the-badge" alt="Nome e edição do evento" />
@@ -12,67 +15,113 @@
   <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blue&style=for-the-badge" alt="License" />
 </h2>
 
-## 👅 Línguas
+## 👅 Languages
 
 - [README in German/Deustch](README-DE.md)
 - [README in Japanese](README-JA.md)
 - [README in Portuguese (Brazil)](README.md)
 
+## 😍 Ícones
+
+- [Ícones](gistfile1.md)
+
 ## 📌 Index
+
 <p align="center">
-  <a href="#-about-readme">About README</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-logo-ou-banner">Logo ou Banner</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project-s-name">Project's Name</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-badges">Badges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-visuals-and-screenshots">Visuals and Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project-s-status">Project's status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contributions">Contributions</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-authors-and-acknowledgment">Authors and acknowledgment</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-references">References</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a> 
+  <a href="#logo-ou-banner">Logo ou Banner</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project-s-name">Project's Name</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#description">Description and motivation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#index"> Index </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
+  <a href="#about-readme">About README and MarkDown</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#badges">Badges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#visuals-and-screenshots">Visuals and Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation">Installation and Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project-s-status">Project's status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#issues"> Issues </a>  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
+  <a href="#contributions">Contributions</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#authors-and-acknowledgment">Authors and acknowledgment</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#references">References</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a> 
 </p>
 
  ## ❔ About the README
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. 
+
+If you think your README is too long, consider utilizing another form of documentation rather than cutting out information. This is a suggested structure, each one can do according to the needs of the project. We will now cover each of the structure's topics and other additional points.
+
+### ⌨️ What´s Markdown?
+
+Markdown is a text to HTML conversion tool. You write using simple, easy-to-read and easy-to-write text and then it is transformed into valid HTML.
+
+Markdown was created by John Gruber and Aaron Swartz and their source code was written in Perl. This is the official website [here](https://daringfireball.net/projects/markdown/)
+
+You can view MarkDown within VS Code by adding an extension:
+
+
+É  possível visualizar o MarkDown dentro do VS Code adicionando uma extensão:
+<h1 align="center">
+    <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
+</h1>
+
+| Shortcuts | Functionality |
+|:----------|------|
+|cmd-k v or ctrl-k| Open preview to the Side| 
+|cmd-shift-v or ctrl-shift-v  |  Open preview |
+
+## Logo or Banner
+
+Status: Optional
+
+If your project already has a logo add it to the README. It can be a banner too. You can create a logo or banner using Canva.
+
+The logo or banner may replace the title, but not the description of the project. The good thing about keeping the title and description in text is that it helps with Github SEO, Google will help to better index your project on the first pages of searches, in addition to giving a summary about your project.
 
 ## Project's Name
 
-Choose a self-explaining name for your project.
+Status: Required
+
+Choose a short, self-explanatory name for your project.
 
 ## Description 
 
+Status: Required
+
 Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
-### 🧐 Motivation           
+### 🎯 Motivation           
+
+Status: Optional
 
 Motivation Description  
 
 ## Badges
 
+Status: Optional
+
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
 ## 📸 Visuals and Screenshots
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+
+Status: Required
+
+Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). 
+
+The safest way to keep the files is to create a folder of screenshots, github, assets, resources or whatever name you want and leave the files in it. If you use an image or gif CDN it may work but you risk breaking the link someday.
+
 -------------
 
 ### GIF Image
 <p align="center">
-  <img src=".github/TextTradutor.gif" alt="GIF" width="100px" />
+  <img src=".github/Readmedemo.gif" alt="GIF" width="700px" />
 </p>
-
-### PNG Image
-<p align="center">
-  <img src=".github/imagem.png" alt="PNG" width="100px" />
-</p>
-
 
 ## Technologies            
-   
+  
+Status: Required
+
 | Day | Description | Technologies |
 |:---:|---------|:-----------:|
 |  03/08  |Accelerating your evolution| ![npm](https://img.shields.io/npm/v/react?color=black&label=React&logo=react)  ![npm](https://img.shields.io/npm/v/typescript?color=black&label=Typescript&logo=typescript&logoColor=blue) |
@@ -91,7 +140,11 @@ Depending on what you are making, it can be a good idea to include screenshots o
 [Details](Aula03.md)
 
 ## ⚙ Installation    
+
+Status: Required
+
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+
 -------------
 
 ### Commands to install on the MAC 
@@ -104,6 +157,7 @@ Within a particular ecosystem, there may be a common way of installing things, s
 
 ## Usage
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+
 -------------
 
 ### Characters             
@@ -185,15 +239,24 @@ Then, enter the cloned repository and the directory corresponding to the one you
 ```
 ## Project status
 
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers. 
+Status: Optional
 
-## 🐛 Issues           
-Offer people a form of contact.  It can be any combination of contacts, a chat room, an email address, etc.           
+Indicates whether the project is under development or has already been completed. If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers. 
+
+## 🐛 Issues  
+
+Status: Optional
+
+Offer people a form of contact.  It can be any combination of contacts, a chat room, an email address, etc.       
+
 -------------
 > Feel free to register a new problem with its title and description in the Proffy repository.  
 > If you have already found a solution to your problem, I would love to review your pull request! 
 
 ## 🤝 Contributions 
+
+Status: Required
+
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 Contributing
 
@@ -202,6 +265,7 @@ State if you are open to contributions and what your requirements are for accept
 For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
 
 You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+
 -------------
 
 Follow the steps below to contribute:
@@ -222,7 +286,11 @@ Follow the steps below to contribute:
 
 
 ## Authors and acknowledgment
+
+Status: Optional
+
 Show your appreciation to those who have contributed to the project.
+
 -------------
  <div align=center>
   <table style="width:100%">
@@ -241,6 +309,8 @@ Show your appreciation to those who have contributed to the project.
 
 ## ***References***  
 
+Status: Required
+
 * MarkDown
     - [Editor.md](https://pandao.github.io/editor.md/en.html)
     - [Dillinger](https://dillinger.io/)
@@ -257,7 +327,10 @@ Show your appreciation to those who have contributed to the project.
 
 ## 📜 License             
 
+Status: Required
+
 If your project is open source, it's important to include a license.
+
 -------------
 The project published in 2020 on the license [MIT](./LICENSE) ❤️           
 Made with ❤️ by Shyoutarou           

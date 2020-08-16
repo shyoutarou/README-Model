@@ -1,10 +1,11 @@
 
-
-# NLW-Next-Level-Week #2
-
 <h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; width:100px; height:100px;" src=".github/nlw.gif"  />
+    <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
 </h1>
+
+# 📝 README-Model
+
+<p align="center"> Eine kurze Beschreibung: Referenzen, Markdown, Symbole, um die Datei README.md viel, viel cooler zu machen. </p>
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blue?style=for-the-badge" alt="Nome e edição do evento" />
@@ -14,34 +15,40 @@
   <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blue&style=for-the-badge" alt="License" />
 </h2>
 
-## 👅 Línguas
+## 👅 Sprachen
 
-- [README in English](README-EN.md)
-- [README in Japanese](README-JA.md)
-- [README in Portuguese (Brazil)](README.md)
+- [README auf Englisch](README-EN.md)
+- [README auf Japanisch](README-JA.md)
+- [README in Portugiesisch (Brasilien)](README.md)
+
+## 😍 Ikon
+
+- [Ikon](gistfile1.md)
 
  ## 📌 Index      
  
  <p align = "center">        
-    <a href="#-uber-readme"> Über README </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-logo-oder-banner"> Logo oder Banner </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-projektname"> Projektname </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
-    <a href="#-beschreibung"> Beschreibung</a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-badges"> Badges </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-visuals-und-screenshots"> Visuals und Screenshots </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-techniker"> Techniker </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-installation"> Installation </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-verwendung"> Verwendung </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-projektstatus"> Projektstatus </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-beiträge"> Beiträge </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-autoren-und-bestätigung"> Autoren und Bestätigung </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
-    <a href="#-referenzen"> Referenzen </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-    <a href="#-lizenz"> Lizenz </a>      
+    <a href="#uber-readme"> Über README </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;        
+    <a href="#logo-oder-banner"> Logo oder Banner </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#projektname"> Projektname </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
+    <a href="#beschreibung"> Beschreibung</a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#badges"> Badges </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#visuals-und-screenshots"> Visuals und Screenshots </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#techniker"> Techniker </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#installation"> Installation </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#verwendung"> Verwendung </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#projektstatus"> Projektstatus </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#beiträge"> Beiträge </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#autoren-und-bestätigung"> Autoren und Bestätigung </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
+    <a href="#referenzen"> Referenzen </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#lizenz"> Lizenz </a>      
  </p>            
  
  ## ❔ Über die README           
  
- Jedes Projekt ist anders. Überlegen Sie also, welcher dieser Abschnitte für Sie gilt.  Die in der Vorlage verwendeten Abschnitte sind Vorschläge für die meisten Open Source-Projekte.  Denken Sie auch daran, dass eine README-Datei zwar zu lang und detailliert sein kann, zu lang jedoch besser als zu kurz ist.  Wenn Sie der Meinung sind, dass Ihre README-Datei zu lang ist, sollten Sie eine andere Form der Dokumentation verwenden, anstatt Informationen auszuschneiden.           
+ Jedes Projekt ist anders. Überlegen Sie also, welcher dieser Abschnitte für Sie gilt.  Die in der Vorlage verwendeten Abschnitte sind Vorschläge für die meisten Open Source-Projekte.  Denken Sie auch daran, dass eine README-Datei zwar zu lang und detailliert sein kann, zu lang jedoch besser als zu kurz ist. 
+ 
+ Wenn Sie der Meinung sind, dass Ihre README-Datei zu lang ist, sollten Sie eine andere Form der Dokumentation verwenden, anstatt Informationen auszuschneiden.           
  
  ## Projektname           
  
@@ -61,17 +68,18 @@
  
  ## 📸 Visuals und Screenshots           
  
- Je nachdem, was Sie machen, kann es eine gute Idee sein, Screenshots oder sogar ein Video einzuschließen (häufig werden GIFs anstelle von tatsächlichen Videos angezeigt).  Tools wie ttygif können helfen, aber schauen Sie sich Asciinema für eine ausgefeiltere Methode an.     
+ Je nachdem, was Sie machen, kann es eine gute Idee sein, Screenshots oder sogar ein Video einzuschließen (häufig werden GIFs anstelle von tatsächlichen Videos angezeigt).  Tools wie ttygif können helfen, aber schauen Sie sich Asciinema für eine ausgefeiltere Methode an.    
+
  -------------           
  
 ### Image GIF
 <p align="center">
-  <img src=".github/TextTradutor.gif" alt="GIF" width="100px" />
+  <img src=".github/TextTradutor.gif" alt="GIF" width="700px" />
 </p>
 
 ### Image PNG
 <p align="center">
-  <img src=".github/imagem.png" alt="PNG" width="100px" />
+  <img src=".github/imagem.png" alt="PNG" width="300px" />
 </p>         
  
  ## Technologien              
@@ -94,7 +102,8 @@
  
  ## ⚙ Installation           
  
- Innerhalb eines bestimmten Ökosystems gibt es möglicherweise eine übliche Methode zur Installation von Dingen, z. B. die Verwendung von Garn, NuGet oder Homebrew.  Berücksichtigen Sie jedoch die Möglichkeit, dass jeder, der Ihre README-Datei liest, ein Anfänger ist und weitere Anleitungen wünscht.  Das Auflisten bestimmter Schritte hilft dabei, Unklarheiten zu beseitigen, und bringt die Benutzer dazu, Ihr Projekt so schnell wie möglich zu verwenden.  Wenn es nur in einem bestimmten Kontext wie einer bestimmten Programmiersprachenversion oder einem bestimmten Betriebssystem ausgeführt wird oder Abhängigkeiten aufweist, die manuell installiert werden müssen, fügen Sie auch einen Unterabschnitt Anforderungen hinzu.      
+ Innerhalb eines bestimmten Ökosystems gibt es möglicherweise eine übliche Methode zur Installation von Dingen, z. B. die Verwendung von Garn, NuGet oder Homebrew.  Berücksichtigen Sie jedoch die Möglichkeit, dass jeder, der Ihre README-Datei liest, ein Anfänger ist und weitere Anleitungen wünscht.  Das Auflisten bestimmter Schritte hilft dabei, Unklarheiten zu beseitigen, und bringt die Benutzer dazu, Ihr Projekt so schnell wie möglich zu verwenden.  Wenn es nur in einem bestimmten Kontext wie einer bestimmten Programmiersprachenversion oder einem bestimmten Betriebssystem ausgeführt wird oder Abhängigkeiten aufweist, die manuell installiert werden müssen, fügen Sie auch einen Unterabschnitt Anforderungen hinzu.    
+
  -------------           
  
  ### Befehle zur Installation auf dem MAC           
@@ -107,7 +116,9 @@
  
  ## Verwendung           
  
- Verwenden Sie Beispiele großzügig und zeigen Sie die erwartete Ausgabe, wenn Sie können.  Es ist hilfreich, das kleinste Anwendungsbeispiel, das Sie demonstrieren können, inline zu haben und Links zu komplexeren Beispielen bereitzustellen, wenn diese zu lang sind, um in die README-Datei aufgenommen zu werden.      -------------           
+ Verwenden Sie Beispiele großzügig und zeigen Sie die erwartete Ausgabe, wenn Sie können.  Es ist hilfreich, das kleinste Anwendungsbeispiel, das Sie demonstrieren können, inline zu haben und Links zu komplexeren Beispielen bereitzustellen, wenn diese zu lang sind, um in die README-Datei aufgenommen zu werden.  
+
+   -------------           
  
  ### Zeichen      
  ----           
@@ -190,13 +201,16 @@ Geben Sie dann das geklonte Repository und das Verzeichnis ein, das dem zu teste
  ## 🐛 Probleme           
  
  Bieten Sie Menschen eine Kontaktform.  Dies kann eine beliebige Kombination von Kontakten, einem Chatroom, einer E-Mail-Adresse usw. sein.      
+
  -------------      
  > Sie können ein neues Problem mit Titel und Beschreibung im Proffy-Repository registrieren.      
  > Wenn Sie bereits eine Lösung für Ihr Problem gefunden haben, würde ich gerne Ihre Pull-Anfrage überprüfen!           
  
  ## 🤝 Beiträge           
  
- Wenn Sie Ideen für zukünftige Releases haben, ist es eine gute Idee, diese in der README-Liste aufzulisten.      Mitwirken           Geben Sie an, ob Sie für Beiträge offen sind und welche Anforderungen Sie an die Annahme dieser Beiträge stellen.           Für Personen, die Änderungen an Ihrem Projekt vornehmen möchten, ist es hilfreich, eine Dokumentation zu den ersten Schritten zu haben.  Vielleicht gibt es ein Skript, das sie ausführen sollten, oder einige Umgebungsvariablen, die sie festlegen müssen.  Machen Sie diese Schritte explizit.  Diese Anweisungen könnten auch für Ihr zukünftiges Selbst nützlich sein.           Sie können auch Befehle dokumentieren, um den Code zu fusseln oder Tests auszuführen.  Diese Schritte tragen dazu bei, eine hohe Codequalität sicherzustellen und die Wahrscheinlichkeit zu verringern, dass die Änderungen versehentlich etwas beschädigen.  Anweisungen zum Ausführen von Tests sind besonders hilfreich, wenn ein externes Setup erforderlich ist, z. B. das Starten eines Selenium-Servers zum Testen in einem Browser.      -------------                      
+ Wenn Sie Ideen für zukünftige Releases haben, ist es eine gute Idee, diese in der README-Liste aufzulisten.      Mitwirken           Geben Sie an, ob Sie für Beiträge offen sind und welche Anforderungen Sie an die Annahme dieser Beiträge stellen.           Für Personen, die Änderungen an Ihrem Projekt vornehmen möchten, ist es hilfreich, eine Dokumentation zu den ersten Schritten zu haben.  Vielleicht gibt es ein Skript, das sie ausführen sollten, oder einige Umgebungsvariablen, die sie festlegen müssen.  Machen Sie diese Schritte explizit.  Diese Anweisungen könnten auch für Ihr zukünftiges Selbst nützlich sein.           Sie können auch Befehle dokumentieren, um den Code zu fusseln oder Tests auszuführen.  Diese Schritte tragen dazu bei, eine hohe Codequalität sicherzustellen und die Wahrscheinlichkeit zu verringern, dass die Änderungen versehentlich etwas beschädigen.  Anweisungen zum Ausführen von Tests sind besonders hilfreich, wenn ein externes Setup erforderlich ist, z. B. das Starten eines Selenium-Servers zum Testen in einem Browser.    
+
+  -------------                      
  
 Befolgen Sie die folgenden Schritte, um einen Beitrag zu leisten: 
 
@@ -215,7 +229,8 @@ Befolgen Sie die folgenden Schritte, um einen Beitrag zu leisten:
 7. Okay, jetzt warte einfach auf die Analyse
  
   ## Autoren und Anerkennung           
-  Zeigen Sie denen, die zum Projekt beigetragen haben, Ihre Wertschätzung.      
+  Zeigen Sie denen, die zum Projekt beigetragen haben, Ihre Wertschätzung.    
+
 -------------
  <div align=center>
   <table style="width:100%">
@@ -249,10 +264,11 @@ Befolgen Sie die folgenden Schritte, um einen Beitrag zu leisten:
  
  ## 📜 Lizenz           
  
- Wenn Ihr Projekt Open Source ist, ist es wichtig, eine Lizenz beizufügen.      
+ Wenn Ihr Projekt Open Source ist, ist es wichtig, eine Lizenz beizufügen.   
+
  -------------      
  Das 2020 veröffentlichte Projekt unter der Lizenz [MIT] (./ LIZENZ) ❤️      
  Hergestellt mit ❤️ von Shyoutarou      
  Gefallen?  Hinterlasse einen kleinen Stern, um das Projekt zu unterstützen ⭐           
  
- - [Zurück nach oben](#Index)
+ - [Zurück nach oben](#index)

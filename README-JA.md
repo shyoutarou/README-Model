@@ -1,8 +1,10 @@
-# NLW-Next-Level-Week #2
-
 <h1 align="center">
-    <img alt="バナー" title="#バナー" style="object-fit: cover; width:100px; height:100px;" src=".github/banner.png"  />
+    <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
 </h1>
+
+# 📝 README-Model
+
+<p align="center"> 簡単な説明：README.mdファイルをより涼しくするための参照、マークダウン、アイコン。 </p>
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blue?style=for-the-badge" alt="Nome e edição do evento" />
@@ -12,29 +14,33 @@
   <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blue&style=for-the-badge" alt="License" />
 </h2>
 
-## 👅 Línguas
+## 👅 言語
 
-- [README in English](README-EN.md)
-- [README in German/Deustch](README-DE.md)
-- [README in Portuguese (Brazil)](README.md)
+- [英語のREADME](README-EN.md)
+- [ドイツ語のREADME](README-DE.md)
+- [ポルトガル語（ブラジル）のREADM](README.md)
+
+## 😍 アイコン
+
+- [アイコン](gistfile1.md)
 
 ##📌索引      
-<p align = "center">        
 
-<a href="#-READMEについて"> READMEについて</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
-<a href="#-ロゴタイプとバナー"> ロゴタイプとバナー </a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
-<a href="#-プロジェクトの名前">プロジェクトの名前</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;          
-<a href="#-説明と動機">説明と動機</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
-<a href="#-Badges">バッジ</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
-<a href="#-ビジュアル">ビジュアル</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
-<a href="#-テクノロジー"> テクノロジー </a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
-<a href="#-インストール">インストール</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
-<a href="#-使用方法">使用方法</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;       
- <a href="#-プロジェクトステータス">プロジェクトステータス</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
- <a href="#-貢献">貢献</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
- <a href="#-作者と謝辞">作者と謝辞</a>        <a href="#-license">ライセンス</a>      
- 
- </ p>                
+<p align = "center">        
+  <a href="#readmeについて"> READMEについて</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#ロゴタイプとバナー"> ロゴタイプとバナー </a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#プロジェクトの名前">プロジェクトの名前</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;          
+  <a href="#説明と動機">説明と動機</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#badges">バッジ</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#ビジュアル">ビジュアル</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#テクノロジー"> テクノロジー </a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#インストール">インストール</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#使用方法">使用方法</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;       
+  <a href="#プロジェクトステータス">プロジェクトステータス</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#貢献">貢献</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;        
+  <a href="#作者と謝辞">作者と謝辞</a>       
+  <a href="#-license">ライセンス</a>      
+ </p>                
  
  ## READMEについて           
  
@@ -56,11 +62,7 @@
 
 -------------
  <p align="center">
-  <img src=".github/TextTradutor.gif" alt="GIF" width="100px" />
-</p>
-
-<p align="center">
-  <img src=".github/imagem.png" alt="PNG" width="100px" />
+  <img src=".github/Readmedemo.gif" alt="GIF" width="700px" />
 </p>
 
  ## テクノロジー                              
