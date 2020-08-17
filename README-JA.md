@@ -7,10 +7,11 @@
 <p align="center"> 簡単な説明：README.mdファイルをより涼しくするための参照、マークダウン、アイコン。 </p>
 
 <h2 align="center">
+  <img src="https://img.shields.io/badge/NewProject-README-blue?style=for-the-badge" alt="project Ok" />
   <img src="https://img.shields.io/badge/web%3F-ok-blue?style=for-the-badge" alt="Sistema web Ok" />
   <img src="https://img.shields.io/badge/server%3F-ok-blue?style=for-the-badge" alt="Server Ok" />
-  <img src="https://img.shields.io/badge/Mobile-OK-blue?style=for-the-badge" alt="Aplicativo mobile Ok" />
-  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blue&style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Mobile%3F-OK-blue?style=for-the-badge" alt="Aplicativo mobile Ok" />
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="mobile Ok" />
 </h2>
 
 ## 👅 言語
