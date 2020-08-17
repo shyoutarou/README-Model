@@ -8,11 +8,10 @@
 <p align="center"> A Brief Description: References, Markdown, Icons to make README.md file much, much cooler. </p>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blue?style=for-the-badge" alt="Nome e edição do evento" />
   <img src="https://img.shields.io/badge/web%3F-ok-blue?style=for-the-badge" alt="Sistema web Ok" />
   <img src="https://img.shields.io/badge/server%3F-ok-blue?style=for-the-badge" alt="Server Ok" />
-  <img src="https://img.shields.io/badge/Mobile-OK-blue?style=for-the-badge" alt="Aplicativo mobile Ok" />
-  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blue&style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Mobile%3F-OK-blue?style=for-the-badge" alt="mobile Ok" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?color=blue&style=for-the-badge" alt="License" />
 </h2>
 
 ## 👅 Languages
@@ -336,7 +335,7 @@ The project published in 2020 on the license [MIT](./LICENSE) ❤️
 Made with ❤️ by Shyoutarou           
 Liked?  Leave a little star to help the project ⭐           
 
-- [Back to Top](#index)
+- [Back to Top](#languages)
 
 
 
