@@ -8,11 +8,10 @@
 <p align="center"> Eine kurze Beschreibung: Referenzen, Markdown, Symbole, um die Datei README.md viel, viel cooler zu machen. </p>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blue?style=for-the-badge" alt="Nome e edição do evento" />
   <img src="https://img.shields.io/badge/web%3F-ok-blue?style=for-the-badge" alt="Sistema web Ok" />
   <img src="https://img.shields.io/badge/server%3F-ok-blue?style=for-the-badge" alt="Server Ok" />
-  <img src="https://img.shields.io/badge/Mobile-OK-blue?style=for-the-badge" alt="Aplicativo mobile Ok" />
-  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blue&style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Mobile%3F-OK-blue?style=for-the-badge" alt="mobile Ok" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?color=blue&style=for-the-badge" alt="License" />
 </h2>
 
 ## 👅 Sprachen
@@ -27,11 +26,12 @@
 
  ## 📌 Index      
  
- <p align = "center">        
-    <a href="#uber-readme"> Über README </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;        
+ <p align = "center">          
     <a href="#logo-oder-banner"> Logo oder Banner </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
     <a href="#projektname"> Projektname </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
-    <a href="#beschreibung"> Beschreibung</a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+    <a href="#beschreibung"> Beschreibung</a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;    
+    <a href="#index"> Index</a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;    
+    <a href="#uber-die-readme"> Über die README </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;     
     <a href="#badges"> Badges </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
     <a href="#visuals-und-screenshots"> Visuals und Screenshots </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
     <a href="#techniker"> Techniker </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
@@ -71,16 +71,12 @@
  Je nachdem, was Sie machen, kann es eine gute Idee sein, Screenshots oder sogar ein Video einzuschließen (häufig werden GIFs anstelle von tatsächlichen Videos angezeigt).  Tools wie ttygif können helfen, aber schauen Sie sich Asciinema für eine ausgefeiltere Methode an.    
 
  -------------           
- 
-### Image GIF
-<p align="center">
-  <img src=".github/TextTradutor.gif" alt="GIF" width="700px" />
-</p>
 
-### Image PNG
+### GIF Image
 <p align="center">
-  <img src=".github/imagem.png" alt="PNG" width="300px" />
-</p>         
+  <img src=".github/Readmedemo.gif" alt="GIF" width="700px" />
+</p>
+    
  
  ## Technologien              
  
