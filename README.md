@@ -1,7 +1,9 @@
 
 
 <h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
+    <a href="https://laravelcollective.com/tools/banner">
+        <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
+    </a>
 </h1>
 
 # 📝 README-Model
@@ -44,28 +46,6 @@
   <a href="#referências"> Referências </a>  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
   <a href="#licença"> Licença </a>    
 </p>
-         
-## ❔ Sobre o README           
-
-Cada projeto é diferente, portanto, considere quais dessas seções se aplicam ao seu.  As seções usadas no modelo são sugestões para a maioria dos projetos de código aberto.  Também tenha em mente que, embora um README possa ser muito longo e detalhado, muito longo é melhor do que muito curto.  
-
-Se você acha que seu README é muito longo, considere utilizar outra forma de documentação em vez de cortar as informações. Essa é uma sugestão de estrutura, cada um pode fazer conforme a necessidade do projeto. Vamos agora cobrir cada um dos tópicos da estrutura e outros pontos adicionais. 
-
-### ⌨️ O que é Markdown?
-
-O Markdown é uma ferramenta de conversão de texto em HTML. Você escreve usando texto simples de fácil leitura e fácil escrita e depois é transformado em um HTML válido.
-
-Markdown foi criado por John Gruber e Aaron Swartz e seu código fonte foi escrito em Perl. O site oficial é esse [aqui](https://daringfireball.net/projects/markdown/)
-
-É  possível visualizar o MarkDown dentro do VS Code adicionando uma extensão:
-<h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
-</h1>
-
-| Shortcuts | Functionality |
-|:----------|------|
-|cmd-k v or ctrl-k| Open preview to the Side| 
-|cmd-shift-v or ctrl-shift-v  |  Open preview |
 
 ## Logotipo ou Banner
 
@@ -92,6 +72,31 @@ Deixe as pessoas saberem o que seu projeto pode fazer especificamente.  Forneça
 Status: Opcional
 
 Descrição do Motivo
+------------------------
+
+## ❔ Sobre o README           
+
+Cada projeto é diferente, portanto, considere quais dessas seções se aplicam ao seu.  As seções usadas no modelo são sugestões para a maioria dos projetos de código aberto.  Também tenha em mente que, embora um README possa ser muito longo e detalhado, muito longo é melhor do que muito curto.  
+
+Se você acha que seu README é muito longo, considere utilizar outra forma de documentação em vez de cortar as informações. Essa é uma sugestão de estrutura, cada um pode fazer conforme a necessidade do projeto. Vamos agora cobrir cada um dos tópicos da estrutura e outros pontos adicionais. 
+
+### ⌨️ O que é Markdown?
+
+O Markdown é uma ferramenta de conversão de texto em HTML. Você escreve usando texto simples de fácil leitura e fácil escrita e depois é transformado em um HTML válido.
+
+Markdown foi criado por John Gruber e Aaron Swartz e seu código fonte foi escrito em Perl. O site oficial é esse [aqui](https://daringfireball.net/projects/markdown/)
+
+[Detalhes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+É  possível visualizar o MarkDown dentro do VS Code adicionando uma extensão:
+<h1 align="center">
+    <img alt="Banner" title="#VSCode" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
+</h1>
+
+| Shortcuts | Functionality |
+|:----------|------|
+|cmd-k v or ctrl-k| Open preview to the Side| 
+|cmd-shift-v or ctrl-shift-v  |  Open preview |
 
 ## Badges           
 
@@ -132,7 +137,7 @@ Status: Obrigatório
   - [x] Login / Logout 
   - [x] Permanecer logado - Token
 
-[Detalhes](Aula03.md)
+[Detalhes](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 ## ⚙ Instalação   
 
@@ -290,7 +295,7 @@ Mostre sua gratidão àqueles que contribuíram para o projeto.
     <tr align=center>
       <td>
         <a href="https://github.com/shyoutarou">
-          <img width="200" height="180" src="https://avatars3.githubusercontent.com/u/66930143?s=460&u=9a46318c1563414a627c432d89b8ae53bf359430&v=4">
+          <img width="200" height="180" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/66930143?s=460&u=9a46318c1563414a627c432d89b8ae53bf359430&v=4">
         </a>
       </td>
     </tr>
@@ -301,6 +306,9 @@ Mostre sua gratidão àqueles que contribuíram para o projeto.
 
 Status: Obrigatório
 
+* Banner
+    - [Laravel Collective](https://laravelcollective.com/tools/banner)
+
 * MarkDown
     - [Editor.md](https://pandao.github.io/editor.md/en.html)
     - [Dillinger](https://dillinger.io/)
@@ -309,10 +317,20 @@ Status: Obrigatório
 * Badges
     - [Shields](https://shields.io/)
     - [How to Make Custom Badges](https://dev.to/milkers/how-to-make-custom-badges-to-improve-your-markdown-documents-460k)
+    - [Badger](http://badges.github.io/badgerbadgerbadger/)
+
+* GIFS
+    - [Recordit](https://recordit.co/)
+    - [ttystudio](https://github.com/chjj/ttystudio)
 
 * Guias
     - [Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
     - [Make a README](https://www.makeareadme.com/)
+    - [sampleREADME.md](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
+
+
+
 
 ## 📜 Licença   
 

@@ -1,6 +1,8 @@
 
 <h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
+    <a href="https://laravelcollective.com/tools/banner">
+        <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
+    </a>
 </h1>
 
 # 📝 README-Model
@@ -45,31 +47,6 @@
   <a href="#license">License</a> 
 </p>
 
- ## ❔ About the README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. 
-
-If you think your README is too long, consider utilizing another form of documentation rather than cutting out information. This is a suggested structure, each one can do according to the needs of the project. We will now cover each of the structure's topics and other additional points.
-
-### ⌨️ What´s Markdown?
-
-Markdown is a text to HTML conversion tool. You write using simple, easy-to-read and easy-to-write text and then it is transformed into valid HTML.
-
-Markdown was created by John Gruber and Aaron Swartz and their source code was written in Perl. This is the official website [here](https://daringfireball.net/projects/markdown/)
-
-You can view MarkDown within VS Code by adding an extension:
-
-
-É  possível visualizar o MarkDown dentro do VS Code adicionando uma extensão:
-<h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
-</h1>
-
-| Shortcuts | Functionality |
-|:----------|------|
-|cmd-k v or ctrl-k| Open preview to the Side| 
-|cmd-shift-v or ctrl-shift-v  |  Open preview |
-
 ## Logo or Banner
 
 Status: Optional
@@ -95,6 +72,31 @@ Let people know what your project can do specifically. Provide context and add a
 Status: Optional
 
 Motivation Description  
+------------------------
+
+ ## ❔ About the README
+
+Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. 
+
+If you think your README is too long, consider utilizing another form of documentation rather than cutting out information. This is a suggested structure, each one can do according to the needs of the project. We will now cover each of the structure's topics and other additional points.
+
+### ⌨️ What´s Markdown?
+
+Markdown is a text to HTML conversion tool. You write using simple, easy-to-read and easy-to-write text and then it is transformed into valid HTML.
+
+Markdown was created by John Gruber and Aaron Swartz and their source code was written in Perl. This is the official website [here](https://daringfireball.net/projects/markdown/)
+
+You can view MarkDown within VS Code by adding an extension:
+
+You can view MarkDown within VS Code by adding an extension:
+<h1 align="center">
+    <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
+</h1>
+
+| Shortcuts | Functionality |
+|:----------|------|
+|cmd-k v or ctrl-k| Open preview to the Side| 
+|cmd-shift-v or ctrl-shift-v  |  Open preview |
 
 ## Badges
 
@@ -111,7 +113,6 @@ Depending on what you are making, it can be a good idea to include screenshots o
 The safest way to keep the files is to create a folder of screenshots, github, assets, resources or whatever name you want and leave the files in it. If you use an image or gif CDN it may work but you risk breaking the link someday.
 
 -------------
-
 ### GIF Image
 <p align="center">
   <img src=".github/Readmedemo.gif" alt="GIF" width="700px" />
@@ -257,8 +258,6 @@ Offer people a form of contact.  It can be any combination of contacts, a chat r
 Status: Required
 
 If you have ideas for releases in the future, it is a good idea to list them in the README.
-Contributing
-
 State if you are open to contributions and what your requirements are for accepting them.
 
 For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
@@ -299,7 +298,7 @@ Show your appreciation to those who have contributed to the project.
     <tr align=center>
       <td>
         <a href="https://github.com/shyoutarou">
-          <img width="200" height="180" src="https://avatars3.githubusercontent.com/u/66930143?s=460&u=9a46318c1563414a627c432d89b8ae53bf359430&v=4">
+          <img width="200" height="180" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/66930143?s=460&u=9a46318c1563414a627c432d89b8ae53bf359430&v=4">
         </a>
       </td>
     </tr>
@@ -310,6 +309,9 @@ Show your appreciation to those who have contributed to the project.
 
 Status: Required
 
+* Banner
+    - [Laravel Collective](https://laravelcollective.com/tools/banner)
+
 * MarkDown
     - [Editor.md](https://pandao.github.io/editor.md/en.html)
     - [Dillinger](https://dillinger.io/)
@@ -318,11 +320,16 @@ Status: Required
 * Badges
     - [Shields](https://shields.io/)
     - [How to Make Custom Badges](https://dev.to/milkers/how-to-make-custom-badges-to-improve-your-markdown-documents-460k)
+    - [Badger](http://badges.github.io/badgerbadgerbadger/)
+
+* GIFS
+    - [Recordit](https://recordit.co/)
+    - [ttystudio](https://github.com/chjj/ttystudio)
 
 * Guias
     - [Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
     - [Make a README](https://www.makeareadme.com/)
-
+    - [sampleREADME.md](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 ## 📜 License             
 
