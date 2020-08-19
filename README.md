@@ -90,7 +90,7 @@ Markdown foi criado por John Gruber e Aaron Swartz e seu código fonte foi escri
 
 É  possível visualizar o MarkDown dentro do VS Code adicionando uma extensão:
 <h1 align="center">
-    <img alt="Banner" title="#VSCode" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
+    <img alt="VSCode" title="#VSCode" style="object-fit: cover; height:300px;" src=".github/markdown.png"  />
 </h1>
 
 | Shortcuts | Functionality |

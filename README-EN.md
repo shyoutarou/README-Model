@@ -90,7 +90,7 @@ You can view MarkDown within VS Code by adding an extension:
 
 You can view MarkDown within VS Code by adding an extension:
 <h1 align="center">
-    <img alt="Banner" title="#VSCode" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
+    <img alt="VSCode" title="#VSCode" style="object-fit: cover; height:300px;" src=".github/markdown.png"  />
 </h1>
 
 | Shortcuts | Functionality |
