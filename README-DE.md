@@ -84,7 +84,7 @@ Sie können MarkDown in VS Code anzeigen, indem Sie eine Erweiterung hinzufügen
 Sie können MarkDown in VS Code anzeigen, indem Sie eine Erweiterung hinzufügen:
 
 <h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
+    <img alt="Banner" title="#VSCode" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
 </h1>
 
 | Verknüpfungen | Funktionalität |
