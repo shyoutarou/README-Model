@@ -57,10 +57,7 @@ Markdown is a text to HTML conversion tool. You write using simple, easy-to-read
 
 Markdown was created by John Gruber and Aaron Swartz and their source code was written in Perl. This is the official website [here](https://daringfireball.net/projects/markdown/)
 
-You can view MarkDown within VS Code by adding an extension:
-
-
-É  possível visualizar o MarkDown dentro do VS Code adicionando uma extensão:
+It is possible to view and create MarkDown indexes within VS Code by adding an extension:
 <h1 align="center">
     <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
 </h1>
@@ -69,6 +66,10 @@ You can view MarkDown within VS Code by adding an extension:
 |:----------|------|
 |cmd-k v or ctrl-k| Open preview to the Side| 
 |cmd-shift-v or ctrl-shift-v  |  Open preview |
+
+In addition, the creation of tables by sites such as:
+
+[Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Logo or Banner
 
@@ -314,7 +315,8 @@ Status: Required
     - [Editor.md](https://pandao.github.io/editor.md/en.html)
     - [Dillinger](https://dillinger.io/)
     - [Stackedit](https://stackedit.io/) 
-
+    - [Devbaraus](https://github.com/devbaraus/markdown-showcase) 
+    - 
 * Badges
     - [Shields](https://shields.io/)
     - [How to Make Custom Badges](https://dev.to/milkers/how-to-make-custom-badges-to-improve-your-markdown-documents-460k)

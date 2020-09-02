@@ -46,6 +46,26 @@
  
  プロジェクトはそれぞれ異なるため、これらのセクションのどれがあなたのプロジェクトに当てはまるかを検討してください。 テンプレートで使用されるセクションは、ほとんどのオープンソースプロジェクトの提案です。 また、READMEは長すぎて詳細になる可能性がありますが、長すぎると短すぎるよりも優れていることに注意してください。  READMEが長すぎると思われる場合は、情報を削除するのではなく、別の形式のドキュメントを利用することを検討してください。           
  
+### ⌨️ Markdownとは？
+
+Markdownは、テキストからHTMLへの変換ツールです。 シンプルで読みやすく、書きやすいテキストを使用して書き込み、それが有効なHTMLに変換されます。
+
+MarkdownはJohn GruberとAaron Swartzによって作成され、それらのソースコードはPerlで書かれました。 これは公式ウェブサイトです[ここ]https://daringfireball.net/projects/markdown/）
+
+拡張機能を追加することで、VS Code内でMarkDownインデックスを表示および作成できます。
+<h1 align="center">
+    <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
+</h1>
+
+| ショートカット| 機能|
+|：---------- | ------ |
+| cmd-k vまたはctrl-k | プレビューをサイドに開く|
+| cmd-shift-vまたはctrl-shift-v | プレビューを開く|
+
+さらに、次のようなサイトによるテーブルの作成：
+
+[Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+
  ## プロジェクトに名前を付ける           
  
  プロジェクトのわかりやすい名前を選択します。           
@@ -85,7 +105,25 @@
  
  ## 著者と謝辞           
  
- プロジェクトに貢献してくれた人々に感謝の意を表します。           
+ プロジェクトに貢献してくれた人々に感謝の意を表します。      
+
+ ## ***参照***  
+
+Status: Required
+
+* MarkDown
+    - [Editor.md](https://pandao.github.io/editor.md/en.html)
+    - [Dillinger](https://dillinger.io/)
+    - [Stackedit](https://stackedit.io/) 
+    - [Devbaraus](https://github.com/devbaraus/markdown-showcase) 
+    - 
+* Badges
+    - [Shields](https://shields.io/)
+    - [How to Make Custom Badges](https://dev.to/milkers/how-to-make-custom-badges-to-improve-your-markdown-documents-460k)
+
+* Guias
+    - [Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
+    - [Make a README](https://www.makeareadme.com/)     
  
  ## ライセンス           
  

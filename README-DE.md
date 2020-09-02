@@ -50,6 +50,26 @@
  
  Wenn Sie der Meinung sind, dass Ihre README-Datei zu lang ist, sollten Sie eine andere Form der Dokumentation verwenden, anstatt Informationen auszuschneiden.           
  
+### ⌨️ Was ist Markdown?
+
+Markdown ist ein Tool zur Konvertierung von Text in HTML. Sie schreiben mit einfachem, leicht lesbarem und leicht zu schreibendem Text und wandeln ihn dann in gültigen HTML-Code um.
+
+Markdown wurde von John Gruber und Aaron Swartz erstellt und ihr Quellcode wurde in Perl geschrieben. Dies ist die offizielle Website [hier] (https://daringfireball.net/projects/markdown/)
+
+Sie können MarkDown-Indizes in VS Code anzeigen und erstellen, indem Sie eine Erweiterung hinzufügen:
+<h1 align="center">
+    <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
+</h1>
+
+| Verknüpfungen | Funktionalität |
+|: ---------- | ------ |
+| cmd-k v oder ctrl-k | Öffnen Sie die Vorschau zur Seite |
+| cmd-shift-v oder ctrl-shift-v | Vorschau öffnen |
+
+Darüber hinaus wird die Erstellung von Tabellen durch Websites wie:
+
+[Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+
  ## Projektname           
  
  Wählen Sie einen selbsterklärenden Namen für Ihr Projekt.           
@@ -249,7 +269,8 @@ Befolgen Sie die folgenden Schritte, um einen Beitrag zu leisten:
     - [Editor.md](https://pandao.github.io/editor.md/en.html)
     - [Dillinger](https://dillinger.io/)
     - [Stackedit](https://stackedit.io/) 
-
+    - [Devbaraus](https://github.com/devbaraus/markdown-showcase) 
+    - 
 * Badges
     - [Shields](https://shields.io/)
     - [How to Make Custom Badges](https://dev.to/milkers/how-to-make-custom-badges-to-improve-your-markdown-documents-460k)
