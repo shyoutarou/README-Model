@@ -1,6 +1,8 @@
 
 <h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
+    <a href="https://laravelcollective.com/tools/banner">
+        <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
+    </a>
 </h1>
 
 # 📝 README-Model
@@ -70,7 +72,16 @@ Darüber hinaus wird die Erstellung von Tabellen durch Websites wie:
 
 [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
- ## Projektname           
+        
+## Logo oder Banner
+
+Status: Optional
+
+Wenn Ihr Projekt bereits ein Logo hat, fügen Sie es der README-Datei hinzu. Es kann auch ein Banner sein. Sie können mit Canva ein Logo oder Banner erstellen.
+
+Das Logo oder Banner ersetzt möglicherweise den Titel, nicht jedoch die Beschreibung des Projekts. Das Gute daran, den Titel und die Beschreibung im Text zu behalten, ist, dass es bei Github SEO hilft. Google hilft dabei, Ihr Projekt auf den ersten Seiten der Suche besser zu indizieren und gibt eine Zusammenfassung über Ihr Projekt.
+
+## Projektname           
  
  Wählen Sie einen selbsterklärenden Namen für Ihr Projekt.           
  
@@ -80,9 +91,35 @@ Darüber hinaus wird die Erstellung von Tabellen durch Websites wie:
  
  ### 🧐 Motivation           
  
- Motivationsbeschreibung           
+ Motivationsbeschreibung    
+------------------------
+
+ ## ❔ Über die README           
  
- ## Abzeichen           
+ Jedes Projekt ist anders. Überlegen Sie also, welcher dieser Abschnitte für Sie gilt.  Die in der Vorlage verwendeten Abschnitte sind Vorschläge für die meisten Open Source-Projekte.  Denken Sie auch daran, dass eine README-Datei zwar zu lang und detailliert sein kann, zu lang jedoch besser als zu kurz ist. 
+ 
+ Wenn Sie der Meinung sind, dass Ihre README-Datei zu lang ist, sollten Sie eine andere Form der Dokumentation verwenden, anstatt Informationen auszuschneiden.           
+
+### ⌨️ Was ist Markdown?
+
+Markdown ist ein Tool zur Konvertierung von Text in HTML. Sie schreiben mit einfachem, leicht lesbarem und leicht zu schreibendem Text und wandeln ihn dann in gültigen HTML-Code um.
+
+Markdown wurde von John Gruber und Aaron Swartz erstellt und ihr Quellcode wurde in Perl geschrieben. Dies ist die offizielle Website [hier] (https://daringfireball.net/projects/markdown/)
+
+Sie können MarkDown in VS Code anzeigen, indem Sie eine Erweiterung hinzufügen:
+
+Sie können MarkDown in VS Code anzeigen, indem Sie eine Erweiterung hinzufügen:
+
+<h1 align="center">
+    <img alt="VSCode" title="#VSCode" style="object-fit: cover; height:300px;" src=".github/markdown.png"  />
+</h1>
+
+| Verknüpfungen | Funktionalität |
+|:----------|------|
+|cmd-k v or ctrl-k| Open preview to the Side| 
+|cmd-shift-v or ctrl-shift-v  |  Open preview |
+
+ ## Badges           
  
  In einigen READMEs werden möglicherweise kleine Bilder angezeigt, die Metadaten enthalten, z. B. ob alle Tests für das Projekt bestanden wurden oder nicht.  Sie können Shields verwenden, um einige zu Ihrer README hinzuzufügen.  Viele Dienste haben auch Anweisungen zum Hinzufügen eines Ausweises.           
  
@@ -91,7 +128,6 @@ Darüber hinaus wird die Erstellung von Tabellen durch Websites wie:
  Je nachdem, was Sie machen, kann es eine gute Idee sein, Screenshots oder sogar ein Video einzuschließen (häufig werden GIFs anstelle von tatsächlichen Videos angezeigt).  Tools wie ttygif können helfen, aber schauen Sie sich Asciinema für eine ausgefeiltere Methode an.    
 
  -------------           
-
 ### GIF Image
 <p align="center">
   <img src=".github/Readmedemo.gif" alt="GIF" width="700px" />
@@ -224,7 +260,11 @@ Geben Sie dann das geklonte Repository und das Verzeichnis ein, das dem zu teste
  
  ## 🤝 Beiträge           
  
- Wenn Sie Ideen für zukünftige Releases haben, ist es eine gute Idee, diese in der README-Liste aufzulisten.      Mitwirken           Geben Sie an, ob Sie für Beiträge offen sind und welche Anforderungen Sie an die Annahme dieser Beiträge stellen.           Für Personen, die Änderungen an Ihrem Projekt vornehmen möchten, ist es hilfreich, eine Dokumentation zu den ersten Schritten zu haben.  Vielleicht gibt es ein Skript, das sie ausführen sollten, oder einige Umgebungsvariablen, die sie festlegen müssen.  Machen Sie diese Schritte explizit.  Diese Anweisungen könnten auch für Ihr zukünftiges Selbst nützlich sein.           Sie können auch Befehle dokumentieren, um den Code zu fusseln oder Tests auszuführen.  Diese Schritte tragen dazu bei, eine hohe Codequalität sicherzustellen und die Wahrscheinlichkeit zu verringern, dass die Änderungen versehentlich etwas beschädigen.  Anweisungen zum Ausführen von Tests sind besonders hilfreich, wenn ein externes Setup erforderlich ist, z. B. das Starten eines Selenium-Servers zum Testen in einem Browser.    
+ Wenn Sie Ideen für zukünftige Releases haben, ist es eine gute Idee, diese in der README-Liste aufzulisten. Geben Sie an, ob Sie für Beiträge offen sind und welche Anforderungen Sie an die Annahme dieser Beiträge stellen.           
+ 
+ Für Personen, die Änderungen an Ihrem Projekt vornehmen möchten, ist es hilfreich, eine Dokumentation zu den ersten Schritten zu haben.  Vielleicht gibt es ein Skript, das sie ausführen sollten, oder einige Umgebungsvariablen, die sie festlegen müssen.  Machen Sie diese Schritte explizit.  Diese Anweisungen könnten auch für Ihr zukünftiges Selbst nützlich sein.           
+ 
+ Sie können auch Befehle dokumentieren, um den Code zu fusseln oder Tests auszuführen.  Diese Schritte tragen dazu bei, eine hohe Codequalität sicherzustellen und die Wahrscheinlichkeit zu verringern, dass die Änderungen versehentlich etwas beschädigen.  Anweisungen zum Ausführen von Tests sind besonders hilfreich, wenn ein externes Setup erforderlich ist, z. B. das Starten eines Selenium-Servers zum Testen in einem Browser.    
 
   -------------                      
  
@@ -256,7 +296,7 @@ Befolgen Sie die folgenden Schritte, um einen Beitrag zu leisten:
     <tr align=center>
       <td>
         <a href="https://github.com/shyoutarou">
-          <img width="200" height="180" src="https://avatars3.githubusercontent.com/u/66930143?s=460&u=9a46318c1563414a627c432d89b8ae53bf359430&v=4">
+          <img width="200" height="180" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/66930143?s=460&u=9a46318c1563414a627c432d89b8ae53bf359430&v=4">
         </a>
       </td>
     </tr>
@@ -264,6 +304,9 @@ Befolgen Sie die folgenden Schritte, um einen Beitrag zu leisten:
 </div>    
  
  ## ***Verweise***
+
+* Banner
+    - [Laravel Collective](https://laravelcollective.com/tools/banner)
 
 * MarkDown
     - [Editor.md](https://pandao.github.io/editor.md/en.html)
@@ -274,11 +317,17 @@ Befolgen Sie die folgenden Schritte, um einen Beitrag zu leisten:
 * Badges
     - [Shields](https://shields.io/)
     - [How to Make Custom Badges](https://dev.to/milkers/how-to-make-custom-badges-to-improve-your-markdown-documents-460k)
+    - [Badger](http://badges.github.io/badgerbadgerbadger/)
+
+* GIFS
+    - [Recordit](https://recordit.co/)
+    - [ttystudio](https://github.com/chjj/ttystudio)    
 
 * Guias
     - [Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
     - [Make a README](https://www.makeareadme.com/)             
- 
+    - [sampleREADME.md](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
  ## 📜 Lizenz           
  
  Wenn Ihr Projekt Open Source ist, ist es wichtig, eine Lizenz beizufügen.   
