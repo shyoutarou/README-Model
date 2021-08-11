@@ -47,32 +47,6 @@
   <a href="#licença"> Licença </a>    
 </p>
          
-## ❔ Sobre o README           
-
-Cada projeto é diferente, portanto, considere quais dessas seções se aplicam ao seu.  As seções usadas no modelo são sugestões para a maioria dos projetos de código aberto.  Também tenha em mente que, embora um README possa ser muito longo e detalhado, muito longo é melhor do que muito curto.  
-
-Se você acha que seu README é muito longo, considere utilizar outra forma de documentação em vez de cortar as informações. Essa é uma sugestão de estrutura, cada um pode fazer conforme a necessidade do projeto. Vamos agora cobrir cada um dos tópicos da estrutura e outros pontos adicionais. 
-
-### ⌨️ O que é Markdown?
-
-O Markdown é uma ferramenta de conversão de texto em HTML. Você escreve usando texto simples de fácil leitura e fácil escrita e depois é transformado em um HTML válido.
-
-Markdown foi criado por John Gruber e Aaron Swartz e seu código fonte foi escrito em Perl. O site oficial é esse [aqui](https://daringfireball.net/projects/markdown/)
-
-É  possível visualizar e criar índíces de MarkDown dentro do VS Code adicionando uma extensão:
-<h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; height:300px;" src=".github/markdownvscode.png"  />
-</h1>
-
-| Shortcuts | Functionality |
-|:----------|------|
-|cmd-k v or ctrl-k| Open preview to the Side| 
-|cmd-shift-v or ctrl-shift-v  |  Open preview |
-
-Além disso, pode se automatizar a criação de tabelas por sites como:
-
-[Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-
 ## Logotipo ou Banner
 
 Status: Opcional
